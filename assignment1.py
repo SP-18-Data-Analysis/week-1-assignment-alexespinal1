@@ -27,4 +27,4 @@ C = {0:'Java',1:'Python',3:'JSON'}
 C = [0] = 'Testing'
 
 print(C)
-print(C[2])
+print(C[0])
