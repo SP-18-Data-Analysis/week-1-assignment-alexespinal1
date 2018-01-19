@@ -4,7 +4,8 @@ print("Hello world")
 #List
 A = [2,3]
 B = [0,1,'Lewis','University',3.50]
-print(A + B)
+print(A)
+print(B)
 
 #print a index of the list.
 A.append(2)
