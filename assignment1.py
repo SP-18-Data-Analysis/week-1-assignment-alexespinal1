@@ -24,7 +24,7 @@ print(B[2])
 
 #Map
 C = {0:'Java',1:'Python',3:'JSON'}
-C = [0] = 'Testing'
+C[0] = 'Testing'
 
 print(C)
 print(C[0])
